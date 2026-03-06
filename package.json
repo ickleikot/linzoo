@@ -1,0 +1,34 @@
+{
+  "name": "linzoo",
+  "version": "2.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "14.2.5",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "telegram": "^2.26.22",
+    "big-integer": "^1.6.51",
+    "zustand": "^4.5.4",
+    "framer-motion": "^11.3.19",
+    "date-fns": "^3.6.0",
+    "react-hot-toast": "^2.4.1",
+    "react-virtuoso": "^4.7.11",
+    "lottie-web": "^5.12.2",
+    "highlight.js": "^11.10.0",
+    "buffer": "^6.0.3",
+    "events": "^3.3.0",
+    "process": "^0.11.10",
+    "emoji-mart": "^5.6.0",
+    "@emoji-mart/data": "^1.2.1"
+  },
+  "devDependencies": {
+    "eslint": "^8",
+    "eslint-config-next": "14.2.5"
+  }
+}
